@@ -1,0 +1,15 @@
+---
+
+- include: other.yml
+
+- include: php.yml
+
+- include: php-cli.yml
+
+- include: apache.yml
+
+- include: composer.yml
+
+- include: git.yml
+
+- include: gulp.yml

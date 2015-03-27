@@ -1,0 +1,8 @@
+---
+
+- name: The gulp npm package is installed.
+  npm:
+    name=gulp
+    state=present
+    global=yes
+
