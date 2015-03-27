@@ -1,5 +1,5 @@
 ---
 
-git_user: gituser
-git_user_group: root
-git_user_home: /home/gituser
+git_user: vagrant
+git_user_group: vagrant
+git_user_home: /home/vagrant
