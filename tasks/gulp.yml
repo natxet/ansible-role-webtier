@@ -14,3 +14,4 @@
     - gulp-minify-css
     - gulp-jshint
     - gulp-uglify
+    - gulp-strip-debug
