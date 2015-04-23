@@ -11,5 +11,3 @@
 - include: composer.yml
 
 - include: git.yml
-
-- include: gulp.yml
