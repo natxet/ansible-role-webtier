@@ -17,6 +17,7 @@
     - php5-json
     - php5-memcached
     - php5-mysql
+    - php5-intl
   notify:
     - ensure apache
     - restart apache
